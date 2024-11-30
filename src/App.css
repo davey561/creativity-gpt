@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.idea-generator {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.idea-generator input {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.idea-generator button {
+  padding: 10px 20px;
+}
+
+.ideas-list {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.ideas-list ul {
+  list-style-type: decimal;
+  padding-left: 20px;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
